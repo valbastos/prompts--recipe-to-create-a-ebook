@@ -1,0 +1,57 @@
+# 🧠 Prompts Utilizados
+
+Aqui estão os prompts utilizados para criar o ebook **Transformação 4.0**.
+
+---
+
+## 📌 Prompt 1 - Estrutura do Ebook
+Quero criar um ebook chamado “Transformação 4.0: Como a Tecnologia Acelera a Mudança Social no Terceiro Setor”.
+
+Monte um sumário com:
+- 1 prefácio
+- 10 capítulos
+- 1 epílogo
+
+O conteúdo deve ser prático, com insights e cases reais de impacto no terceiro setor. Pense em ONGs pequenas que podem se beneficiar da IA.
+
+
+## 📌 Prompt 2 - Tom de Escrita
+Desenvolva o Capítulo [NÚMERO] do ebook “Transformação 4.0: Como a Tecnologia Acelera a Mudança Social no Terceiro Setor”.
+
+Regras:
+- Escreva com tom corporativo, mas inspirador.
+- Use dados reais ou plausíveis para dar credibilidade (ex.: pesquisas, percentuais).
+- Insira exemplos e cases reais ou fictícios que pareçam autênticos.
+- Finalize com uma reflexão ou call-to-action.
+
+Desenvolva o Capítulo 2: “Inteligência Artificial: O Novo Superpoder Social” seguindo as regras acima.
+
+Reescreva os textos com o seguinte tom:
+- Linguagem corporativa e persuasiva.
+- Fale diretamente com gestores e líderes do terceiro setor.
+- Use storytelling quando possível.
+- Sempre termine com uma pergunta reflexiva ou uma frase de impacto.
+
+4. Revisão Final e Otimização
+Revise todo o conteúdo do ebook:
+- Ajuste para manter coesão entre capítulos.
+- Padronize o tom de voz (corporativo + inspirador).
+- Adicione frases de impacto que possam ser usadas como chamadas em redes sociais.
+- Verifique se cada capítulo responde a pergunta: “Por que isso importa para o terceiro setor?”.
+
+5. Preparação para Publicação
+Otimize o conteúdo para ser publicado como PDF:
+- Insira títulos e subtítulos organizados.
+- Quebre os parágrafos longos.
+- Inclua listas numeradas e bullet points onde fizer sentido.
+- Sugira um título de capa e uma breve descrição para o README do repositório.
+
+
+
+---
+
+**💡 Dica:** se os prompts forem longos, crie arquivos separados:
+- `prompts/01-estrutura.md`
+- `prompts/02-estilo.md`
+- `prompts/03-revisao-final.md`
+- `prompts/05-revisao-final.md`
