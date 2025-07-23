@@ -40,7 +40,8 @@ O objetivo é mostrar como qualquer pessoa pode criar ebooks de impacto social u
 
 ## 📚 Materiais
 
-- **/prompts** → Prompts originais usados para cada capítulo  
+- ## 🧠 Prompts Utilizados
+Os prompts usados para criar este ebook estão disponíveis em [./prompts/README.md](./prompts/README.md).
 - **/outputs** → Versão final do ebook em PDF e assets visuais  
 
 ---
