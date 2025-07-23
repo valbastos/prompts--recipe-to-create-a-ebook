@@ -1,27 +1,22 @@
-name: Deploy MkDocs to GitHub Pages
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Install MkDocs and Material theme
-        run: |
-          pip install mkdocs-material
-
-      - name: Deploy to GitHub Pages
-        run: |
-          mkdocs gh-deploy --force
+site_name: Transformação 4.0
+site_description: Como a Tecnologia Acelera a Mudança Social no Terceiro Setor
+site_author: Valéria Bastos
+repo_url: https://github.com/valbastos/transformacao-4.0-ebook
+theme:
+  name: material
+  language: pt
+nav:
+  - Início: index.md
+  - Prefácio: prompts/01_prefácio.txt
+  - Capítulo 1: prompts/02_capítulo_1.txt
+  - Capítulo 2: prompts/03_capítulo_2.txt
+  - Capítulo 3: prompts/04_capítulo_3.txt
+  - Capítulo 4: prompts/05_capítulo_4.txt
+  - Capítulo 5: prompts/06_capítulo_5.txt
+  - Capítulo 6: prompts/07_capítulo_6.txt
+  - Capítulo 7: prompts/08_capítulo_7.txt
+  - Capítulo 8: prompts/09_capítulo_8.txt
+  - Capítulo 9: prompts/10_capítulo_9.txt
+  - Capítulo 10: prompts/11_capítulo_10.txt
+  - Epílogo: prompts/12_epílogo.txt
+  - 📥 Download do Ebook (PDF): outputs/Transformacao-4.0.pdf
