@@ -3,7 +3,7 @@
 ℹ️ **NOTE:** Este repositório faz parte do projeto de criação do ebook **Transformação 4.0**, desenvolvido com prompts estratégicos de IA para impactar o Terceiro Setor.  
 O objetivo é mostrar como qualquer pessoa pode criar ebooks de impacto social utilizando ferramentas acessíveis.
 
-📕 **[Clique aqui para ler o ebook completo](outputs/Transformacao-4.0.pdf)**
+📕 [📥 Baixar Ebook](https://github.com/valbastos/prompts--recipe-to-create-a-ebook/raw/main/output/transformacao-4.0.pdf)
 
 ---
 
