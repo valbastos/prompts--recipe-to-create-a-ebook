@@ -35,8 +35,7 @@ O objetivo é mostrar como qualquer pessoa pode criar ebooks de impacto social u
 
 - Conteúdo gerado **100% via ChatGPT**  
 - Imagens e conceitos visuais criados via **MidJourney** (opcional)  
-- Ebook diagramado em ferramentas simples e acessíveis (**Canva / Beautiful.ai**)  
-
+- Ebook diagramado em ferramentas simples e acessíveis (Gamma IA)
 ---
 
 ## 📚 Materiais
