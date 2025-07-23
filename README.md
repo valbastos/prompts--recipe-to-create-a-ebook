@@ -11,7 +11,7 @@ O objetivo é mostrar como qualquer pessoa pode criar ebooks de impacto social u
 
 - **ChatGPT** → Criação de todo o conteúdo textual  
 - **MidJourney** → Imagens e conceitos visuais (opcional)  
-- **Canva / Beautiful.ai** → Diagramação final do ebook  
+- **Gamma** → Diagramação final do ebook  
 
 ---
 
